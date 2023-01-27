@@ -32,6 +32,24 @@ Here are some ideas to get you started:
 
 ---
 
-<div>
+### 🧑‍💻Sobre mí:
+-
+
+-
+
+-
+
+-
+
+-
+---
+
+<div id="estadisticas" align="left">
+ <h2> 📊: Mis estadísticas en GitHub</h2>
   
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=estebancastano&theme=onedark)](https://git.io/streak-stats)
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=estebancastano&show_icons=true&theme=onedark)
+  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=estebancastano&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
