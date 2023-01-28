@@ -44,6 +44,12 @@ Here are some ideas to get you started:
 -
 ---
 
+<div id="tecnologias y herramientas">
+  
+</div>
+
+---
+
 <div id="estadisticas" align="left">
  <h3> 📊: Mis estadísticas en GitHub</h2>
   
