@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 <div id="contacto" align="center">
-  <h3>Contáctame 📞:</h2>
+  <h3>📞Contáctame :</h2>
   <a href="https://www.linkedin.com/in/estebanandresc/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ---
 
 <div id="tecnologias y herramientas">
-  
+  <h3> :key: </h3>
 </div>
 
 ---
