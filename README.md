@@ -20,18 +20,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=200 >
 </div>
 
----
-
-<div id="contacto" align="center">
-  <h3>📞Contact me :</h2>
-  <a href="https://www.linkedin.com/in/estebanandresc/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://stackoverflow.com/users/18793317/esteban-casta%c3%b1o" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-</div>
 
 ---
 
@@ -64,6 +52,21 @@ Here are some ideas to get you started:
 
 ---
 
+<div id="contacto" align="center">
+  <h3>📞Contact me :</h2>
+  <a href="https://www.linkedin.com/in/estebanandresc/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://stackoverflow.com/users/18793317/esteban-casta%c3%b1o" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+</div>
+
+---  
+  
+  
+
 <div id="estadisticas" align="left">
  <h3> 📊: My stats on GitHub</h2>
   
@@ -73,5 +76,5 @@ Here are some ideas to get you started:
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebancastano&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=estebancastano&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+ <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=estebancastano&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>-->
