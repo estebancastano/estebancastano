@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m+Esteban+Castaño;I´m+from+Colombia)
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=200 >
 </div>
 
