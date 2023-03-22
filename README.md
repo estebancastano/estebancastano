@@ -12,15 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align= "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2582F7&center=true&width=435&lines=Hi%2C+I'm+Esteban+Casta%C3%B1o;I'm+from+Colombia;I'm+a+Front-End+Developer;Be+welcome+to+my+GitHub+repository" alt="Typing SVG" /></a>
+</p>
+
 <div id="header" align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m+Esteban+Castaño;I´m+from+Colombia)
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=200 >
 </div>
 
 ---
 
 <div id="contacto" align="center">
-  <h3>📞Contáctame :</h2>
+  <h3>📞Contact me :</h2>
   <a href="https://www.linkedin.com/in/estebanandresc/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
@@ -32,7 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧑‍💻Sobre mí:
+### 🧑‍💻About me:
 -
 
 -
@@ -45,9 +48,9 @@ Here are some ideas to get you started:
 ---
 
 <div id="tecnologias y herramientas" align="left">
-  <h3> 💻 Tecnologías y herramientas: </h3>
+  <h3> 💻 Technologies and tools: </h3>
   <div>
-  <h4>Tengo conocimientos en:</h4>
+  <h4>I have knowledge in:</h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -62,7 +65,7 @@ Here are some ideas to get you started:
 ---
 
 <div id="estadisticas" align="left">
- <h3> 📊: Mis estadísticas en GitHub</h2>
+ <h3> 📊: My stats on GitHub</h2>
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=estebancastano&theme=onedark)](https://git.io/streak-stats)
 
