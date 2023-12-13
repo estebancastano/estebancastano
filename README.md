@@ -1,19 +1,5 @@
-<!--
-**estebancastano/estebancastano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align= "center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2582F7&center=true&width=435&lines=Hi%2C+I'm+Esteban+Casta%C3%B1o;I'm+from+Colombia;I'm+a+Front-End+Developer;Be+welcome+to+my+GitHub+repository" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Agbalumo&size=35&pause=1000&color=009FF7&center=true&random=false&width=435&lines=Soy+Esteban+Casta%C3%B1o;Desarrollador+Front-End;¡+Bienvenido+a+mi+perfil+!" alt="Typing SVG" /></a>
 </p>
 
 <div id="header" align="center">
@@ -23,45 +9,26 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧑‍💻About me:
--
-
--
-
--
-
--
-
--
+## Acerca de mí:
+- 🎓 Actualmente estoy estudiando ingeniería de sistemas en la universidad de Antioquia.
+- 🌱 Explorando y aprendiendo sobre desarrollo web.
+- 💻 En busca de oportunidades para colaborar en proyectos interesantes y seguir aprendiendo.
 ---
 
-<div id="tecnologias y herramientas" align="left">
-  <h3> 💻 Technologies and tools: </h3>
-  <div>
-  <h4>I have knowledge in:</h4>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="SQL" **alt="SQL" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-    
-   </div>
-</div>
+## Habilidades
+- 💡 Conocimientos básicos en *HTML*, *CSS*, *JavaScript* y estoy aprendiendo **React**.
+- 📚 Interesado en el Front-End.
+---
+
+## Contribuciones
+- 👥 Participando activamente en proyectos de clase.
 
 ---
 
-<div id="contacto" align="center">
-  <h3>📞Contact me :</h2>
-  <a href="https://www.linkedin.com/in/estebanandresc/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://stackoverflow.com/users/18793317/esteban-casta%c3%b1o" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-</div>
+
+ ## Contáctame :
+- 📧 [estebin5372@gmail.com].
+- 💼 [LinkedIn](https://www.linkedin.com/in/estebanandresc/).
 
 ---  
   
