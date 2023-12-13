@@ -70,8 +70,7 @@ Here are some ideas to get you started:
 <div id="estadisticas" align="left">
  <h3> 📊: My stats on GitHub</h2>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=estebancastano&theme=onedark)](https://git.io/streak-stats)
-
+ [![GitHub Streak](https://streak-stats.demolab.com?user=estebancastano&theme=dark&mode=weekly)](https://git.io/streak-stats)
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=estebancastano&show_icons=true&theme=onedark)
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebancastano&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
