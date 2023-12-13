@@ -35,7 +35,8 @@
   
 
 <div id="estadisticas" align="left">
- <h3> 📊: My stats on GitHub</h2>
+ 
+ ## 📊Mis estadísticas en GitHub
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=estebancastano&theme=dark&mode=weekly)](https://git.io/streak-stats)
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=estebancastano&show_icons=true&theme=onedark)
