@@ -21,7 +21,7 @@
 ---
 
 ## Contribuciones
-- 👥 Participando activamente en proyectos de clase.
+- 👥 Participando activamente en proyectos de código abierto (JSConf España 2025).
 
 ---
 
