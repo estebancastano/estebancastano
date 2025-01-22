@@ -16,12 +16,12 @@
 ---
 
 ## Habilidades
-- 💡 Conocimientos básicos en *HTML*, *CSS*, *Tailwind CSS* *JavaScript*, *React*, *Astro* y estoy aprendiendo **TypeScript**.
+- 💡 Conocimientos básicos en *HTML*, *CSS*, *Tailwind CSS* *JavaScript*, *React*, *Astro*, *Python* y estoy aprendiendo **TypeScript**.
 - 📚 Interesado en el Front-End.
 ---
 
 ## Contribuciones
-- 👥 Participando activamente en proyectos de código abierto (JSConf España 2025).
+- 👥 Participando activamente en proyectos de código abierto (JSConf España 2025, 100 proyectos javascript(midudev)).
 
 ---
 
