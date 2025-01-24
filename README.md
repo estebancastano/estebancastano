@@ -17,7 +17,7 @@
 
 ## Habilidades
 - 💡 Conocimientos básicos en *HTML*, *CSS*, *Tailwind CSS* *JavaScript*, *React*, *Astro*, *Python* y estoy aprendiendo **TypeScript**.
-- 📚 Interesado en el Front-End.
+- 📚 Interesado en el Front-End y Backend.
 ---
 
 ## Contribuciones
