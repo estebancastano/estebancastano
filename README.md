@@ -27,7 +27,6 @@
 
 
  ## Contáctame :
-- 📧 [estebin5372@gmail.com].
 - 💼 [LinkedIn](https://www.linkedin.com/in/estebanandresc/).
 
 ---  
