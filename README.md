@@ -21,7 +21,7 @@
 ---
 
 ## Contribuciones
-- 👥 Participando activamente en proyectos de código abierto (JSConf España 2025, 100 proyectos javascript(midudev)).
+- 👥 Participando activamente en proyectos de código abierto (JSConf España 2025, 100 proyectos javascript(midudev), svgl(@pheralb)).
 
 ---
 
